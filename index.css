@@ -1,0 +1,54 @@
+/*  site:google fonts   
+. => bech tnadi lel classe    */
+h2{
+  font-family: "Fira Sans", sans-serif;
+  }
+.main{
+    width:45%;
+    box-shadow: 1px 1px 10px silver;/* yetaamal cadre */
+    margin-top: 20px ;/* yeb3ed al cadre de la fenetre aslan*/
+    margin-bottom: 20px;
+    margin-left: 325px;
+    padding:10px; /* men dekhel div(element) 3la 4 dimensien yebe3dou*/
+    height: 50%;
+
+}
+input{
+    margin-bottom: 10px; /* les bouttons yebe3dou ala b3adhhom*/ 
+    width: 350px;
+    padding: 5px;
+    font-family: "Fira Sans", sans-serif;
+    font-size: 15px;
+   /* font-weight: bold;/* el8oldh*/
+}
+button{
+    border:none;/* elhoudoud*/
+    padding:15px;
+    width:40%;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgb(3, 114, 3);
+    cursor:pointer;/* yetbadal curseur*/
+    font-family: "Fira Sans", sans-serif;
+    margin-bottom: 10px;/* bech yeb3ed melota men bara lelement*/
+    
+}
+label{
+    padding: 10px;
+    cursor:pointer;
+    font-weight:bold;
+    font-size: 15px;
+    background-color: blue;
+    color:white;
+
+
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color:tomato;
+    font-family: "Fira Sans", sans-serif;
+
+
+
+}
